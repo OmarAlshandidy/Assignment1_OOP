@@ -1,0 +1,14 @@
+C:\Users\METRO\Desktop\Project\OOP\Assigment 1\bin\Debug\net8.0\Assigment 1.exe
+C:\Users\METRO\Desktop\Project\OOP\Assigment 1\bin\Debug\net8.0\Assigment 1.deps.json
+C:\Users\METRO\Desktop\Project\OOP\Assigment 1\bin\Debug\net8.0\Assigment 1.runtimeconfig.json
+C:\Users\METRO\Desktop\Project\OOP\Assigment 1\bin\Debug\net8.0\Assigment 1.dll
+C:\Users\METRO\Desktop\Project\OOP\Assigment 1\bin\Debug\net8.0\Assigment 1.pdb
+C:\Users\METRO\Desktop\Project\OOP\Assigment 1\obj\Debug\net8.0\Assigment 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\METRO\Desktop\Project\OOP\Assigment 1\obj\Debug\net8.0\Assigment 1.AssemblyInfoInputs.cache
+C:\Users\METRO\Desktop\Project\OOP\Assigment 1\obj\Debug\net8.0\Assigment 1.AssemblyInfo.cs
+C:\Users\METRO\Desktop\Project\OOP\Assigment 1\obj\Debug\net8.0\Assigment 1.csproj.CoreCompileInputs.cache
+C:\Users\METRO\Desktop\Project\OOP\Assigment 1\obj\Debug\net8.0\Assigment 1.dll
+C:\Users\METRO\Desktop\Project\OOP\Assigment 1\obj\Debug\net8.0\refint\Assigment 1.dll
+C:\Users\METRO\Desktop\Project\OOP\Assigment 1\obj\Debug\net8.0\Assigment 1.pdb
+C:\Users\METRO\Desktop\Project\OOP\Assigment 1\obj\Debug\net8.0\Assigment 1.genruntimeconfig.cache
+C:\Users\METRO\Desktop\Project\OOP\Assigment 1\obj\Debug\net8.0\ref\Assigment 1.dll

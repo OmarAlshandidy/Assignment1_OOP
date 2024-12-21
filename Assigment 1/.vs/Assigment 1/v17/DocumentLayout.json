@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\METRO\\Desktop\\Project\\OOP\\Assigment 1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{242BDE71-4E53-44BC-A7B9-75CD208C889D}|Assigment 1.csproj|c:\\users\\metro\\desktop\\project\\oop\\assigment 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{242BDE71-4E53-44BC-A7B9-75CD208C889D}|Assigment 1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{242BDE71-4E53-44BC-A7B9-75CD208C889D}|Assigment 1.csproj|c:\\users\\metro\\desktop\\project\\oop\\assigment 1\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{242BDE71-4E53-44BC-A7B9-75CD208C889D}|Assigment 1.csproj|solutionrelative:point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{242BDE71-4E53-44BC-A7B9-75CD208C889D}|Assigment 1.csproj|c:\\users\\metro\\desktop\\project\\oop\\assigment 1\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{242BDE71-4E53-44BC-A7B9-75CD208C889D}|Assigment 1.csproj|solutionrelative:person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Point.cs",
+              "DocumentMoniker": "C:\\Users\\METRO\\Desktop\\Project\\OOP\\Assigment 1\\Point.cs",
+              "RelativeDocumentMoniker": "Point.cs",
+              "ToolTip": "C:\\Users\\METRO\\Desktop\\Project\\OOP\\Assigment 1\\Point.cs",
+              "RelativeToolTip": "Point.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T21:15:53.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\METRO\\Desktop\\Project\\OOP\\Assigment 1\\Person.cs",
+              "RelativeDocumentMoniker": "Person.cs",
+              "ToolTip": "C:\\Users\\METRO\\Desktop\\Project\\OOP\\Assigment 1\\Person.cs",
+              "RelativeToolTip": "Person.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T20:17:52.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\METRO\\Desktop\\Project\\OOP\\Assigment 1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\METRO\\Desktop\\Project\\OOP\\Assigment 1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAiwKkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T04:40:27.902Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
